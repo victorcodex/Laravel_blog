@@ -1,6 +1,6 @@
 # Laravel Blog - Victor
 
-This is a Laravel blog i built from scratch. It has a simple front-end and a back-end system. 
+This is a Laravel blog i built from scratch. It has a simple front-end design, and an awesome back-end system. 
 
 Used Bootsrap for the design.
 
