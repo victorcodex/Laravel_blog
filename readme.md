@@ -1,3 +1,12 @@
+# Laravel Blog - Victor
+
+This is a Laravel blog i built from scratch. It has a simple front-end and a back-end system. 
+
+Used Bootsrap for the design.
+
+My Email -> vifeanyi33@gmail.com
+
+
 # Laravel PHP Framework - Victor
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
