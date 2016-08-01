@@ -4,6 +4,17 @@
 
 	@section('stylesheet')
 		{!! Html::style('css/select2.min.css') !!}
+		<script src="//cdn.tinymce.com/4/tinymce.min.js"></script>
+
+  		<script>
+  			tinymce.init({
+			  selector: "textarea",  // change this value according to your HTML
+			  plugins: 'link image imagetools code',
+			  menu: {
+			  	view: {title: 'Edit Tools', items: 'copy paste cut'}
+			  }
+			});
+  		</script>
 	@endsection()
 
 @section('content')
